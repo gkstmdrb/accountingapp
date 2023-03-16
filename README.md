@@ -60,7 +60,16 @@ a1은 10000.0으로 초기화되고, a2는 20000.0으로 초기화된다.<br>
 세 번째 코드에서는 this 키워드가 사용되었다. <br>
 this는 현재 객체를 의미하는 키워드로, <br>
 인스턴스 변수와 지역 변수 이름이 같은 경우 인스턴스 변수를 참조하기 위해 사용됩니다. <br><br><br><br>
+
+### 작성한 코드
+--------------
+### 1번 코드
+--------------
 ![image](https://user-images.githubusercontent.com/114748816/225226671-f5158eed-dbc4-4cc9-9cc8-a909c90e994c.png) <br><br>
+### 2번 코드
+--------------
 ![image](https://user-images.githubusercontent.com/114748816/225226843-89cff2fe-1d3d-4995-8321-57c873b8ca47.png) <br><br>
+### 3번 코드
+--------------
 ![image](https://user-images.githubusercontent.com/114748816/225226974-8e35714e-d0d1-4d90-a1c1-781148bc211a.png)
 
